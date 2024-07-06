@@ -1,6 +1,7 @@
 torch
-numpy
-spacy
+numpy==1.21.1
+cupy-cuda112==9.5.0 
+spacy==3.0.6
 datasets
 torchtext
 tqdm
