@@ -1,5 +1,9 @@
 # Translator App with Seq2Seq Model
 
+## Project Screenshot
+
+![Streamlit App Screenshot](./assets/screenshot.png)
+
 A Streamlit web application for translating text using a Sequence-to-Sequence (Seq2Seq) model.
 
 ## Table of Contents
