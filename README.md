@@ -22,7 +22,7 @@ This project implements a web application using Streamlit to host a Seq2Seq mode
 
 ## Features
 
-- Translation from German to English and vice versa.
+- Translation from German to English.
 - Interactive web interface using Streamlit.
 - Attention visualization for understanding model predictions.
 
