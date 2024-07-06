@@ -66,7 +66,7 @@ Include a GIF or link to a demo video showcasing your application in action.
    streamlit run app.py
    
 2.	Access the app in your browser at http://localhost:8501.
-3.	Enter a German or English sentence to translate and view the output.
+3.	Enter a German sentence to translate and view the output.
 
 ## Technologies Used
 
