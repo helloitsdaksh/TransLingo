@@ -2,7 +2,7 @@
 
 ## Project Screenshot
 
-![Streamlit App Screenshot](./assets/screenshot.png)
+![Streamlit App Screenshot](./app.jpeg)
 
 A Streamlit web application for translating text using a Sequence-to-Sequence (Seq2Seq) model.
 
