@@ -69,10 +69,9 @@ Include a GIF or link to a demo video showcasing your application in action.
 
 	•	Python
 	•	PyTorch
-	•	Streamlit
+	•	Streamlit(for web interface)
 	•	spaCy
 	•	torchtext
-	•	HTML/CSS (for web interface)
 
 ## Contributing
 
