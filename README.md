@@ -1,7 +1,7 @@
 # Translator App with Seq2Seq Model
 
 
-<img src="./app.jpeg" alt="Streamlit App Screenshot" width="60%">
+<img src="./app.jpeg" alt="Streamlit App Screenshot" width="80%">
 
 A Streamlit web application for translating text using a Sequence-to-Sequence (Seq2Seq) model.
 
